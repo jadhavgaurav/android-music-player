@@ -26,16 +26,17 @@ A simple MusicPlayer that allows the user to select songs from their library and
 
 # State
 
-Developing
+Developing...
 
 ## Screenshots
 
-![picture alt](https://github.com/Mohamed99ayman/Gramophone-MusicPlayer/blob/master/screenshots/s1.jpg)
-![picture alt](https://github.com/Mohamed99ayman/Gramophone-MusicPlayer/blob/master/screenshots/s2.jpg)
-![picture alt](https://github.com/Mohamed99ayman/Gramophone-MusicPlayer/blob/master/screenshots/s3.jpg)
-![picture alt](https://github.com/Mohamed99ayman/Gramophone-MusicPlayer/blob/master/screenshots/s4.jpg)
-![picture alt](https://github.com/Mohamed99ayman/Gramophone-MusicPlayer/blob/master/screenshots/s5.jpg)
-![picture alt](https://github.com/Mohamed99ayman/Gramophone-MusicPlayer/blob/master/screenshots/s6.jpg)
+![picture alt](https://github.com/jadhavgaurav/android-music-player/blob/master/screenshots/Picture2.jpg)
+![picture alt](https://github.com/jadhavgaurav/android-music-player/blob/master/screenshots/S1.jpeg)
+![picture alt](https://github.com/jadhavgaurav/android-music-player/blob/master/screenshots/S2.jpeg)
+![picture alt](https://github.com/jadhavgaurav/android-music-player/blob/master/screenshots/S3.jpeg)
+![picture alt](https://github.com/jadhavgaurav/android-music-player/blob/master/screenshots/S4.jpeg)
+![picture alt](https://github.com/jadhavgaurav/android-music-player/blob/master/screenshots/S5.jpeg)
+![picture alt](https://github.com/jadhavgaurav/android-music-player/blob/master/screenshots/S6.jpeg)
 
 ## Developers -
 
