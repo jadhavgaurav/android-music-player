@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/gj/SSJCET/SEM IV/Mini project/Project/mPlayer/app/src/main/res/layout/activity_album.xml" value="0.23229166666666667" />
+        <entry key="..\:/gj/SSJCET/SEM IV/Mini project/Project/mPlayer/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/gj/SSJCET/SEM IV/Mini project/Project/mPlayer/app/src/main/res/layout/activity_player.xml" value="0.22864583333333333" />
+        <entry key="..\:/gj/SSJCET/SEM IV/Mini project/Project/mPlayer/app/src/main/res/layout/adapter_album_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/gj/SSJCET/SEM IV/Mini project/Project/mPlayer/app/src/main/res/layout/adapter_view_layout.xml" value="0.20277777777777778" />
+        <entry key="..\:/gj/SSJCET/SEM IV/Mini project/Project/mPlayer/app/src/main/res/layout/albums_fragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/gj/SSJCET/SEM IV/Mini project/Project/mPlayer/app/src/main/res/layout/artist_fragment.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_7" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
